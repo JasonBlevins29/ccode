@@ -58,5 +58,6 @@ int myPow (int number, int power){
 		
 	}
 	return -1;
+	//added comment
 }
 
